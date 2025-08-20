@@ -55,15 +55,15 @@ To bring this vision to life:
 </p>
 
 <p align="center">
-  <img src="Screenshots/Pisual-Main.png" width="200"/>
-  <img src="Screenshots/Pisual-ISO-Level.png" width="200"/>
-  <img src="Screenshots/Pisual-Shutter-Level.png" width="200"/>
+  <img src="Screenshots/Pisual-Main.png" width="231"/>
+  <img src="Screenshots/Pisual-ISO-Level.png" width="231"/>
+  <img src="Screenshots/Pisual-Shutter-Level.png" width="231"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/Pisual-FStop-Level.png" width="200"/>
-  <img src="Screenshots/Pisual-Feedback.png" width="200"/>
-  <img src="Screenshots/Pisual-Wild-Mode.png" width="200"/>  
+  <img src="Screenshots/Pisual-FStop-Level.png" width="231"/>
+  <img src="Screenshots/Pisual-Feedback.png" width="231"/>
+  <img src="Screenshots/Pisual-Wild-Mode.png" width="231"/>  
 </p>
 
 ---
